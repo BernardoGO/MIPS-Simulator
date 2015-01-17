@@ -1,0 +1,9 @@
+C:\Users\Bernardo\Dropbox\Projetos\C#\MIPS\mips\mips\bin\Debug\mips.exe.config
+C:\Users\Bernardo\Dropbox\Projetos\C#\MIPS\mips\mips\bin\Debug\mips.exe
+C:\Users\Bernardo\Dropbox\Projetos\C#\MIPS\mips\mips\bin\Debug\mips.pdb
+C:\Users\Bernardo\Dropbox\Projetos\C#\MIPS\mips\mips\obj\Debug\mips.csprojResolveAssemblyReference.cache
+C:\Users\Bernardo\Dropbox\Projetos\C#\MIPS\mips\mips\obj\Debug\mips.Form1.resources
+C:\Users\Bernardo\Dropbox\Projetos\C#\MIPS\mips\mips\obj\Debug\mips.Properties.Resources.resources
+C:\Users\Bernardo\Dropbox\Projetos\C#\MIPS\mips\mips\obj\Debug\mips.csproj.GenerateResource.Cache
+C:\Users\Bernardo\Dropbox\Projetos\C#\MIPS\mips\mips\obj\Debug\mips.exe
+C:\Users\Bernardo\Dropbox\Projetos\C#\MIPS\mips\mips\obj\Debug\mips.pdb
